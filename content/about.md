@@ -1,6 +1,6 @@
 ---
-title: About
-type: about
+draft: true
+title: 'About'
 ---
 
 This is the about page.
