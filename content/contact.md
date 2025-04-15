@@ -5,3 +5,4 @@ title: 'Contact'
 
 [GitHub](https://www.github.com/samstalhandske/)
 [LinkedIn](https://www.linkedin.com/in/sam-stalhandske)
+[CV](/cv.pdf)
